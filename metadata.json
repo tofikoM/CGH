@@ -1,0 +1,6 @@
+{
+  "name": "Chiro General Hospital",
+  "description": "Official medical portal for Chiro General Hospital in West Hararghe, Oromia, Ethiopia. Fully bilingual with support for Afaan Oromoo, Amharic, and English; including interactive departments, doctors index, secure online appointment scheduling, and automated media files manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
